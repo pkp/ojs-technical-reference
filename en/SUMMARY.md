@@ -4,7 +4,7 @@
 * [Preface](preface.md)
    * Introduction
        * [About Open Journal Systems](about_open_journal_systems.md)
-   * [About This Document]
+   * About This Document
        * Conventions
    * Technologies
 * Design Overview
