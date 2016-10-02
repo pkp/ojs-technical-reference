@@ -36,7 +36,7 @@
        * [File Management](file_management.md)
        * [Scheduled Tasks](scheduled_tasks.md)
        * [Security](security2.md)
-       * Session Management
+       * [Session Management](session_management.md)
        * Template Support
        * Paging Classes
        * Plugins
