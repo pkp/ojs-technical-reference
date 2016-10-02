@@ -1,4 +1,58 @@
 # Summary
 
-* [Introduction](README.md)
-* [Chapter 1](chapter1.md)
+- Preface
+    - Introduction
+        - About Open Journal Systems
+    - About This Document
+        - Conventions
+    - Technologies
+- Design Overview
+    - Conventions
+        - General
+        - User Interface
+        - PHP Code
+        - Database
+        - Security
+    - Introduction
+    - Request Handling
+        - A Note on URLs
+        - Request Handling Example
+        - Locating Request Handling Code
+- Database Design
+- Class Reference
+    - Class Hierarchy
+    - Page Classes
+    - Action Classes
+    - Model Classes
+    - Data Access Objects (DAOs)
+    - Support Classes
+        - Sending Email Messages
+        - Internationalization
+        - Forms
+        - Configuration
+        - Core Classes
+        - Database Support
+        - File Management
+        - Scheduled Tasks
+        - Security
+        - Session Management
+        - Template Support
+        - Paging Classes
+        - Plugins
+    - Common Tasks
+        - Sending Emails
+        - Database Interaction with DAOs
+- User Interface
+    - Variables
+    - Functions & Modifiers
+- Plugins
+    - Objects & Classes
+    - Sample Plugin
+        - Loader Stub
+        - Plugin Object
+        - Registration Function
+        - Hook Registration and Callback
+        - Plugin Management
+    - Additional Plugin Functionality
+    - Hook List
+- Obtaining More Information
