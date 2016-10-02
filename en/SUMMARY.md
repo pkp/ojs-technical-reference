@@ -35,7 +35,7 @@
        * [Database Support](database_support.md)
        * [File Management](file_management.md)
        * [Scheduled Tasks](scheduled_tasks.md)
-       * Security
+       * [Security](security2.md)
        * Session Management
        * Template Support
        * Paging Classes
