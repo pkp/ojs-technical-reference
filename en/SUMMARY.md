@@ -32,7 +32,7 @@
        * [Forms](forms.md)
        * [Configuration](configuration.md)
        * [Core Classes](core_classes.md)
-       * Database Support
+       * [Database Support](database_support.md)
        * File Management
        * Scheduled Tasks
        * Security
