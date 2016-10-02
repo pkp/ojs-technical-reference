@@ -11,7 +11,7 @@
    * Conventions
        * [General](general.md)
        * [User Interface](user_interface.md)
-       * PHP Code
+       * [PHP Code](php_code.md)
        * Database
        * Security
    * Introduction
