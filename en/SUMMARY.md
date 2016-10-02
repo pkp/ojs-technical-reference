@@ -23,7 +23,7 @@
 * Class Reference
    * [Class Hierarchy](class_hierarchy.md)
    * [Page Classes](page_classes.md)
-   * Action Classes
+   * [Action Classes](action_classes.md)
    * Model Classes
    * Data Access Objects (DAOs)
    * Support Classes
