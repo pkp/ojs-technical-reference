@@ -25,7 +25,7 @@
    * [Page Classes](page_classes.md)
    * [Action Classes](action_classes.md)
    * [Model Classes](model_classes.md)
-   * Data Access Objects (DAOs)
+   * [Data Access Objects (DAOs)](data_access_objects_daos.md)
    * Support Classes
        * Sending Email Messages
        * Internationalization
