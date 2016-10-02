@@ -37,7 +37,7 @@
        * [Scheduled Tasks](scheduled_tasks.md)
        * [Security](security2.md)
        * [Session Management](session_management.md)
-       * Template Support
+       * [Template Support](template_support.md)
        * Paging Classes
        * Plugins
    * Common Tasks
