@@ -11,12 +11,12 @@ Template variables are generally assigned in the Page or Form class that calls t
 - ``publicFilesDir``: The URL to the currently applicable Public Files directory (See the section titled File Management)
 - ``pagePath``: Path of the requested page and operation, if applicable, prepended with a slash; e.g. /user/profile
 - ``currentUrl``: The full URL of the current page
-- ``dateFormatTrunc``: The value of the ``date_format_trunc`` parameter in the [general] section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
-- ``dateFormatShort``: The value of the date_format_short parameter in the [general] section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
-- ``dateFormatLong``: The value of the date_format_long parameter in the [general] section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
-- d``atetimeFormatShor``t: The value of the ``datetime_format_short`` parameter in the [general] section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
-- ``datetimeFormatLong``: The value of the ``datetime_format_long`` parameter in the [general] section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
-- ``currentLocale``: The name of the currently applicable locale; e.g. en_US
+- ``dateFormatTrunc``: The value of the ``date_format_trunc`` parameter in the ``[general]`` section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
+- ``dateFormatShort``: The value of the date_format_short parameter in the ``[general]`` section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
+- ``dateFormatLong``: The value of the date_format_long parameter in the ``[general]`` section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
+- d``atetimeFormatShor``t: The value of the ``datetime_format_short`` parameter in the ``[general]`` section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
+- ``datetimeFormatLong``: The value of the ``datetime_format_long`` parameter in the ``[general]`` section of the ``config.inc.php`` configuration file; used with the date_format Smarty function
+- ``currentLocale``: The name of the currently applicable locale; e.g. ``en_US``
 - ``articleSearchByOptions``: Names of searchable fields used by the search feature in the sidebar and on the Search page
 - ``userSession``: The current Session object
 - ``isUserLoggedIn``: Boolean indicating whether or not the user is logged in
@@ -26,13 +26,13 @@ Template variables are generally assigned in the Page or Form class that calls t
 
 Additionally, if the user is browsing pages belonging to a particular journal, the following variables are available:
 
-- ``currentJournal``: The currently-applicable journal object (of the Journal class)
-- ``alternateLocale1``: First alternate locale (alternateLocale2) journal setting
-- ``alternateLocale2``: Second alternate locale (alternateLocale1) journal setting
-- ``navMenuItems``: Navigation items (navItems) journal setting
-- ``pageHeaderTitle``: Used by templates/common/header.tpl to display journal-specific information
-- ``pageHeaderLogo``: Used by templates/common/header.tpl to display journal-specific information
-- ``alternatePageHeader``: Used by templates/common/header.tpl to display journal-specific information
+- ``currentJournal``: The currently-applicable journal object (of the ``Journal`` class)
+- ``alternateLocale1``: First alternate locale (``alternateLocale2``) journal setting
+- ``alternateLocale2``: Second alternate locale (``alternateLocale1``) journal setting
+- ``navMenuItems``: Navigation items (``navItems``) journal setting
+- ``pageHeaderTitle``: Used by ``templates/common/header.tpl`` to display journal-specific information
+- ``pageHeaderLogo``: Used by ``templates/common/header.tpl`` to display journal-specific information
+- ``alternatePageHeader``: Used by ``templates/common/header.tpl`` to display journal-specific information
 - ``metaSearchDescription``: Current journal's description; used in meta tags
 - ``metaSearchKeywords``: Current journal's keywords; used in meta tags
 - ``metaCustomHeaders``: Current journal's custom headers, if defined; used in meta tags
