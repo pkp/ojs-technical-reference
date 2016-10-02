@@ -34,7 +34,7 @@
        * [Core Classes](core_classes.md)
        * [Database Support](database_support.md)
        * [File Management](file_management.md)
-       * Scheduled Tasks
+       * [Scheduled Tasks](scheduled_tasks.md)
        * Security
        * Session Management
        * Template Support
