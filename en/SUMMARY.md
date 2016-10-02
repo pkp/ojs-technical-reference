@@ -33,7 +33,7 @@
        * [Configuration](configuration.md)
        * [Core Classes](core_classes.md)
        * [Database Support](database_support.md)
-       * File Management
+       * [File Management](file_management.md)
        * Scheduled Tasks
        * Security
        * Session Management
