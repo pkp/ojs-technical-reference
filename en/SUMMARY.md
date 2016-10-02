@@ -31,7 +31,7 @@
        * [Internationalization](internationalization.md)
        * [Forms](forms.md)
        * [Configuration](configuration.md)
-       * Core Classes
+       * [Core Classes](core_classes.md)
        * Database Support
        * File Management
        * Scheduled Tasks
