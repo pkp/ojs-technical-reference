@@ -28,7 +28,7 @@
    * [Data Access Objects (DAOs)](data_access_objects_daos.md)
    * Support Classes
        * [Sending Email Messages](sending_email_messages.md)
-       * Internationalization
+       * [Internationalization](internationalization.md)
        * Forms
        * Configuration
        * Core Classes
