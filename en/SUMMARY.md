@@ -5,7 +5,7 @@
    * Introduction
        * [About Open Journal Systems](about_open_journal_systems.md)
    * About This Document
-       * Conventions
+       * [Conventions](conventions.md)
    * Technologies
 * Design Overview
    * Conventions
