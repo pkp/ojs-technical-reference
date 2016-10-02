@@ -39,7 +39,7 @@
        * [Session Management](session_management.md)
        * [Template Support](template_support.md)
        * [Paging Classes](paging_classes.md)
-       * Plugins
+       * [Plugins](plugins.md)
    * Common Tasks
        * Sending Emails
        * Database Interaction with DAOs
