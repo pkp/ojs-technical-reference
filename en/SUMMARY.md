@@ -41,7 +41,7 @@
        * [Paging Classes](paging_classes.md)
        * [Plugins](plugins.md)
    * [Common Tasks](common_tasks.md)
-       * Sending Emails
+       * [Sending Emails](sending_emails.md)
        * Database Interaction with DAOs
 * User Interface
    * Variables
