@@ -15,3 +15,33 @@ As the system makes use of inheritance and has consistent class naming conventio
 
 The following diagram illustrates the various components and their interactions.
 
+**Figure 1.1. Open Journal Systems MVC Diagram**
+
+![Fig 1.1 Open JOurnal Systems MVC Diagram](/images/fig1.png)
+
+The following files are in the root directory of a typical OJS 2.x installation:
+
+**Table 1.1. Open Journal Systems File Structure**
+
+| File/Directory | Description |
+| ----- | ----- |
+| ``cache`` | Directory containing cached information |
+| ``classes`` | Directory containing most of the OJS 2.x PHP code: Model classes, Data Access Objects (DAOs), core classes, etc |
+| ``config.TEMPLATE.inc.php`` | Sample configuration file |
+| ``config.inc.php`` | System-wide configuration file |
+| ``dbscripts`` | Directory containing XML database schemas and data such as email templates |
+| ``docs`` | Directory containing system documentation |
+| ``help`` | Directory containing system help XML documents |
+| ``includes`` | Directory containing system bootstrapping PHP code: class loading, miscellaneous global functions |
+| ``index.php`` | All requests are processed through this PHP script, whose task it is to invoke the appropriate code elsewhere in the system |
+| ``js`` | Directory containing client-side javascript files |
+| ``lib`` | Directory containing ADODB (database abstraction) and Smarty (template system) classes |
+| ``locale`` | Directory containing locale data and caches |
+| ``pages`` | Directory containing Page classes |
+| ``plugins`` | Directory containing additional plugins |
+| ``public`` | Directory containing files to be made available to remote browsers; for example, journal logos are placed here by the system |
+| ``registry`` |Directory containing various XML data required by the system: scheduled tasks, available locale names, default journal settings, words to avoid when indexing content. |
+| ``rt`` | Directory containing XML data used by the Reading Tools |
+| ``styles`` | Directory containing CSS stylesheets used by the system |
+| ``templates`` | Directory containing all Smarty templates |
+| ``tools`` | Directory containing tools to help maintain the system: unused locale key finder, scheduled task wrapper, SQL generator, etc. |
