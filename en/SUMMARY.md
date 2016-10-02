@@ -21,7 +21,7 @@
        * [Locating Request Handling Code](locating_request_handling_code.md)
 * [Database Design](database_design.md)
 * Class Reference
-   * Class Hierarchy
+   * [Class Hierarchy](class_hierarchy.md)
    * Page Classes
    * Action Classes
    * Model Classes
