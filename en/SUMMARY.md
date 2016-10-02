@@ -22,7 +22,7 @@
 * [Database Design](database_design.md)
 * Class Reference
    * [Class Hierarchy](class_hierarchy.md)
-   * Page Classes
+   * [Page Classes](page_classes.md)
    * Action Classes
    * Model Classes
    * Data Access Objects (DAOs)
