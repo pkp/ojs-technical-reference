@@ -18,7 +18,7 @@
    * Request Handling
        * [A Note on URLs](a_note_on_urls.md)
        * [Request Handling Example](request_handling_example.md)
-       * Locating Request Handling Code
+       * [Locating Request Handling Code](locating_request_handling_code.md)
 * Database Design
 * Class Reference
    * Class Hierarchy
