@@ -29,7 +29,7 @@
    * Support Classes
        * [Sending Email Messages](sending_email_messages.md)
        * [Internationalization](internationalization.md)
-       * Forms
+       * [Forms](forms.md)
        * Configuration
        * Core Classes
        * Database Support
