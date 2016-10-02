@@ -40,7 +40,7 @@
        * [Template Support](template_support.md)
        * [Paging Classes](paging_classes.md)
        * [Plugins](plugins.md)
-   * Common Tasks
+   * [Common Tasks](common_tasks.md)
        * Sending Emails
        * Database Interaction with DAOs
 * User Interface
