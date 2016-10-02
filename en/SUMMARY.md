@@ -38,7 +38,7 @@
        * [Security](security2.md)
        * [Session Management](session_management.md)
        * [Template Support](template_support.md)
-       * Paging Classes
+       * [Paging Classes](paging_classes.md)
        * Plugins
    * Common Tasks
        * Sending Emails
