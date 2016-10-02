@@ -13,7 +13,7 @@
        * [User Interface](user_interface.md)
        * [PHP Code](php_code.md)
        * [Database](database.md)
-       * Security
+       * [Security](security.md)
    * Introduction
    * Request Handling
        * A Note on URLs
