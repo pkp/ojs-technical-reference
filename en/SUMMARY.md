@@ -24,7 +24,7 @@
    * [Class Hierarchy](class_hierarchy.md)
    * [Page Classes](page_classes.md)
    * [Action Classes](action_classes.md)
-   * Model Classes
+   * [Model Classes](model_classes.md)
    * Data Access Objects (DAOs)
    * Support Classes
        * Sending Email Messages
