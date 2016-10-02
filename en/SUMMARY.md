@@ -42,7 +42,7 @@
        * [Plugins](plugins.md)
    * [Common Tasks](common_tasks.md)
        * [Sending Emails](sending_emails.md)
-       * Database Interaction with DAOs
+       * [Database Interaction with DAOs](database_interaction_with_daos.md)
 * User Interface
    * Variables
    * Functions & Modifiers
