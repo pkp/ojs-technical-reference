@@ -15,7 +15,7 @@ For further information, please see ``dbscripts/xml/ojs_schema.xml``.
 | ``article_event_log`` | ``log_id`` | Stores log entries describing events that have taken place with regard to a specific article |
 | ``article_files`` | ``file_id, revision`` | Stores information regarding the various files (e.g. images, galleys, supplementary files) associated with a particular article |
 | ``article_galleys`` | ``galley_id`` | Stores information about a particular layout (or “galley") associated with a particular article |
-| ``article_html_galley_images`` | ``galley_id``, ``file_id`` | Associates images with galleys stored in the article_galleys table | 
+| ``article_html_galley_images`` | ``galley_id``, ``file_id`` | Associates images with galleys stored in the ``article_galleys`` table | 
 | ``article_notes`` | ``note_id`` | Stores notes made for tracking purposes about a particular article by the editor(s) | 
 | ``article_search_object_keywords`` | ``object_id``, ``pos`` | Provides an index associating keywords, by position, with search objects they appear in |
 | ``article_search_objects`` | ``object_id`` | Lists search “objects", or entities that can be searched. |
@@ -42,7 +42,7 @@ For further information, please see ``dbscripts/xml/ojs_schema.xml``.
 | ``oai_resumption_tokens`` | ``token`` | Contains resumption tokens for the OAI protocol interface |
 | ``plugin_settings`` | ``plugin_name``, ``journal_id``, ``setting_name`` | Stores settings for individual plugins |
 | ``proof_assignments`` | ``proof_id`` | Stores information about proofreading assignments | 
-| ``published_articles`` | ``pub_id`` |When an article is published, an entry in this table is created to augment information in the articles table |
+| ``published_articles`` | ``pub_id`` |When an article is published, an entry in this table is created to augment information in the ``articles`` table |
 | ``review_assignments`` | ``review_id`` | Stores information about reviewer assignments | 
 | ``review_rounds`` | ``article_id``, ``round`` | Associates an article ID with a review file revision for each round of review | 
 | ``roles`` | ``journal_id``, ``role_id``, ``user_id`` | Defines what roles (manager, editor, reviewer, ...) users have within particular journals |
