@@ -10,7 +10,7 @@
 * Design Overview
    * Conventions
        * [General](general.md)
-       * User Interface
+       * [User Interface](user_interface.md)
        * PHP Code
        * Database
        * Security
