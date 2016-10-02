@@ -12,7 +12,7 @@
        * [General](general.md)
        * [User Interface](user_interface.md)
        * [PHP Code](php_code.md)
-       * Database
+       * [Database](database.md)
        * Security
    * Introduction
    * Request Handling
