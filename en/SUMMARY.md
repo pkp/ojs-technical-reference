@@ -30,7 +30,7 @@
        * [Sending Email Messages](sending_email_messages.md)
        * [Internationalization](internationalization.md)
        * [Forms](forms.md)
-       * Configuration
+       * [Configuration](configuration.md)
        * Core Classes
        * Database Support
        * File Management
