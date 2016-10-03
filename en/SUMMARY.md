@@ -46,7 +46,7 @@
 * [User Interface](user_interface2.md)
    * [Variables](variables.md)
    * [Functions & Modifiers](functions_and_modifiers.md)
-* Plugins
+* [Plugins](plugins2.md)
    * Objects & Classes
    * Sample Plugin
        * Loader Stub
