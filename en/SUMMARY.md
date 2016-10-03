@@ -47,7 +47,7 @@
    * [Variables](variables.md)
    * [Functions & Modifiers](functions_and_modifiers.md)
 * [Plugins](plugins2.md)
-   * Objects & Classes
+   * [Objects & Classes](objects_and_classes.md)
    * Sample Plugin
        * Loader Stub
        * Plugin Object
