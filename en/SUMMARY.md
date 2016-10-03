@@ -45,7 +45,7 @@
        * [Database Interaction with DAOs](database_interaction_with_daos.md)
 * [User Interface](user_interface2.md)
    * [Variables](variables.md)
-   * Functions & Modifiers
+   * [Functions & Modifiers](functions_and_modifiers.md)
 * Plugins
    * Objects & Classes
    * Sample Plugin
