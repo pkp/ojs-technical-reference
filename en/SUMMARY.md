@@ -50,7 +50,7 @@
    * [Objects & Classes](objects_and_classes.md)
    * [Sample Plugin](sample_plugin.md)
        * [Loader Stub](loader_stub.md)
-       * Plugin Object
+       * [Plugin Object](plugin_object.md)
        * Registration Function
        * Hook Registration and Callback
        * Plugin Management
