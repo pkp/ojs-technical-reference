@@ -55,6 +55,6 @@
        * [Hook Registration and Callback](hook_registration_and_callback.md)
        * [Plugin Management](plugin_management.md)
    * [Additional Plugin Functionality](additional_plugin_functionality.md)
-   * Hook List
+   * [Hook List](hook_list.md)
 * [Obtaining More Information](obtaining_more_information.md)
 
