@@ -35,7 +35,7 @@ for use in a Select menu.
 
 - ``get_help_id`` (e.g. ``{get_help_id key="myHelpTopic" url="true"}``): Displays the topic ID or a full URL (depending on the value of the url parameter) to the specific help page named.
 
-- ``icon`` (e.g. ``{icon name="mail" alt="..." url="http://link.url.com" disabled="true"}``): Displays an icon with the specified link URL, disabled or enabled as specified. The name parameter can take on the values comment, delete, edit, letter, mail, or view.
+- ``icon`` (e.g. ``{icon name="mail" alt="..." url="http://link.url.com" disabled="true"}``): Displays an icon with the specified link URL, disabled or enabled as specified. The name parameter can take on the values ``comment``, ``delete``, ``edit``, ``letter``, ``mail``, or ``view``.
 
 - ``help_topic`` (e.g. ``{help_topic key="(dir)*.page.topic" text="foo"}``): Displays a link to the specified help topic, with the text parameter defining the link contents.
 
