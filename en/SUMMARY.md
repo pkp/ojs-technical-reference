@@ -49,7 +49,7 @@
 * [Plugins](plugins2.md)
    * [Objects & Classes](objects_and_classes.md)
    * [Sample Plugin](sample_plugin.md)
-       * Loader Stub
+       * [Loader Stub](loader_stub.md)
        * Plugin Object
        * Registration Function
        * Hook Registration and Callback
