@@ -56,5 +56,5 @@
        * [Plugin Management](plugin_management.md)
    * [Additional Plugin Functionality](additional_plugin_functionality.md)
    * Hook List
-* Obtaining More Information
+* [Obtaining More Information](obtaining_more_information.md)
 
