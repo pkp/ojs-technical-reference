@@ -52,7 +52,7 @@
        * [Loader Stub](loader_stub.md)
        * [Plugin Object](plugin_object.md)
        * [Registration Function](registration_function.md)
-       * Hook Registration and Callback
+       * [Hook Registration and Callback](hook_registration_and_callback.md)
        * Plugin Management
    * Additional Plugin Functionality
    * Hook List
