@@ -51,7 +51,7 @@
    * [Sample Plugin](sample_plugin.md)
        * [Loader Stub](loader_stub.md)
        * [Plugin Object](plugin_object.md)
-       * Registration Function
+       * [Registration Function](registration_function.md)
        * Hook Registration and Callback
        * Plugin Management
    * Additional Plugin Functionality
