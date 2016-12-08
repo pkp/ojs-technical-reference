@@ -2,10 +2,12 @@
 
 ## Version 2.1
 
-> Alec Smecher,  &lt;<a href="mailto:alec@smecher.bc.ca">alec@smecher.bc.ca</a>&gt;    
-> 4th Edition, Copyright © 2008 Simon Fraser University Library
+Copyright: Materials created by PKP, including all software, documentation, and educational resources are the copyright of the SFU Library (Canada), and are made available under a GPL or Creative Commons (CC-BY) license, allowing you to use and re-purpose for your own needs, including translation.
 
-This document was written under the auspices of the Public Knowledge Project at SFU Library and is licensed under the Creative Commons Attribution-Share Alike 2.5 Canada License. To view a copy of this license, visit <a class="link" href="http://creativecommons.org/licenses/by-sa/2.5/ca/" target="_top">http://creativecommons.org/licenses/by-sa/2.5/ca/</a>.</p>
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Attribution 4.0 International")](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 
 
 
